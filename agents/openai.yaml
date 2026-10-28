@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频创作"
+  short_description: "从题材与情绪发展原创构想和镜头语言，制作视频并分别复核表现力与技术质量"
+  default_prompt: "使用 $video-creation 从我的题材和情绪目标设计有想象力的镜头与声音，选择合适工具制作视频，并以实际片段验证表现力和技术质量。"
